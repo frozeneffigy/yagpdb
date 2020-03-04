@@ -33,7 +33,7 @@ require (
 	github.com/jonas747/dcmd v1.1.1
 	github.com/jonas747/dice v0.0.0-20170619144252-7735f6ee7b69
 	github.com/jonas747/discordgo v1.3.4-0.20200226064344-25c18fdccaed
-	github.com/jonas747/dshardorchestrator/v2 v2.0.1-0.20200203181047-f9a62c68f600
+	github.com/jonas747/dshardorchestrator/v2@f9a62c68f60018746b3c62c857bd46b5e10f33c9
 	github.com/jonas747/dstate v1.0.5
 	github.com/jonas747/dutil v0.0.3
 	github.com/jonas747/go-reddit v0.1.1
